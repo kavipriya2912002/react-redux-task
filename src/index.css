@@ -1,0 +1,62 @@
+body{
+  background-image: linear-gradient(135deg, rgba(159, 159, 159, 0.46) 0%, rgba(159, 159, 159, 0.46) 14.286%,rgba(165, 165, 165, 0.46) 14.286%, rgba(165, 165, 165, 0.46) 28.572%,rgba(171, 171, 171, 0.46) 28.572%, rgba(171, 171, 171, 0.46) 42.858%,rgba(178, 178, 178, 0.46) 42.858%, rgba(178, 178, 178, 0.46) 57.144%,rgba(184, 184, 184, 0.46) 57.144%, rgba(184, 184, 184, 0.46) 71.43%,rgba(190, 190, 190, 0.46) 71.43%, rgba(190, 190, 190, 0.46) 85.716%,rgba(196, 196, 196, 0.46) 85.716%, rgba(196, 196, 196, 0.46) 100.002%),linear-gradient(45deg, rgb(252, 252, 252) 0%, rgb(252, 252, 252) 14.286%,rgb(246, 246, 246) 14.286%, rgb(246, 246, 246) 28.572%,rgb(241, 241, 241) 28.572%, rgb(241, 241, 241) 42.858%,rgb(235, 235, 235) 42.858%, rgb(235, 235, 235) 57.144%,rgb(229, 229, 229) 57.144%, rgb(229, 229, 229) 71.43%,rgb(224, 224, 224) 71.43%, rgb(224, 224, 224) 85.716%,rgb(218, 218, 218) 85.716%, rgb(218, 218, 218) 100.002%);
+}
+.card{
+  
+  border-radius: 20px;
+  border: 2px solid black !important;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.col-md-4{
+  align-items: center;
+}
+
+.row{
+  padding: 50px;
+}
+.card-title{
+  margin: 20px 20px;
+  padding-right: 100px;
+  font-size: xx-large;
+  font-weight: bolder;
+}
+.span1{
+  width: 60px;
+}
+.title-price{
+  display: flex;
+}
+.infoOfCard{
+  padding: 5px 5px;
+}
+.det{
+  padding: 5px 5px;
+}
+.btn{
+align-items: center;
+justify-content: flex-end;
+
+}
+.d-flex{
+
+  margin-top: 10px;
+}
+.second{
+  margin: 10px 40px;
+}
+.total{
+  margin: 10px 40px;
+  margin-bottom: 25px;
+}
+.card-body{
+  padding: 20px 20px;
+}
+.col-md-4{
+  max-width: 300px;
+  max-height: 400px;
+}
+hr{
+  margin-left: 20px;
+  margin-right: 20px;
+  align-items: center;
+}
